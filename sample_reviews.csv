@@ -1,0 +1,301 @@
+review_id,platform,domain,lang,rating,label,review_text
+R0204,facebook,ecommerce,en,4,POS,fast delivery. great job.
+R0267,amazon,restaurant,en,3,NEU,could be better. fine.
+R0153,facebook,ecommerce,en,1,NEG,poor packaging. please improve.
+R0010,facebook,salon,hinglish,1,NEG,waste of money. bahut disappointed.
+R0234,justdial,ecommerce,hinglish,5,POS,service mast thi. love it.
+R0227,zomato,ecommerce,en,3,NEU,delivery was on time. okay overall.
+R0197,amazon,restaurant,en,1,NEG,food was cold. not recommended.
+R0110,amazon,ecommerce,hinglish,5,POS,delivery jaldi hui. great job.
+R0006,facebook,salon,en,1,NEG,staff was unprofessional. needs improvement.
+R0176,instagram,salon,en,3,NEU,could be quicker. alright.
+R0238,google,restaurant,hinglish,3,NEU,kuch khaas nahi. theek hai.
+R0058,justdial,restaurant,en,3,NEU,nothing special. manageable.
+R0219,amazon,restaurant,hi,2,NEG,पैसे की बर्बादी। बहुत निराशा हुई।
+R0046,zomato,salon,en,3,NEU,service was okay. alright.
+R0183,google,restaurant,hinglish,3,NEU,ok ok. theek hai.
+R0222,zomato,salon,en,3,NEU,decent experience. alright.
+R0290,justdial,salon,en,5,POS,excellent facial. loved it.
+R0212,amazon,ecommerce,en,5,POS,seller was responsive. loved it.
+R0149,google,ecommerce,hinglish,2,NEG,hygiene nahi tha. dobara nahi.
+R0166,zomato,restaurant,hinglish,2,NEG,bahut bura tha. please improve.
+R0079,zomato,salon,hinglish,1,NEG,delivery bahut late. please improve.
+R0114,justdial,salon,hinglish,3,NEU,better ho sakta hai. improve kar sakte ho.
+R0250,instagram,salon,en,3,NEU,decent experience. fine.
+R0251,instagram,restaurant,en,4,POS,amazing ambience. highly recommended.
+R0105,justdial,ecommerce,hi,5,POS,बहुत बढ़िया। शानदार काम।
+R0043,instagram,restaurant,hinglish,1,NEG,staff rude tha. bahut disappointed.
+R0282,zomato,ecommerce,hi,2,NEG,पैसे की बर्बादी। बहुत निराशा हुई।
+R0296,amazon,ecommerce,hinglish,3,NEU,average tha. overall ok.
+R0158,justdial,salon,hi,5,POS,डिलीवरी जल्दी हुई। बहुत धन्यवाद।
+R0239,zomato,ecommerce,en,3,NEU,no major issues. fine.
+R0018,facebook,salon,hinglish,4,POS,delivery jaldi hui. love it.
+R0165,amazon,restaurant,hinglish,4,POS,awesome taste. phir se aayenge.
+R0034,instagram,ecommerce,en,5,POS,value for money. loved it.
+R0025,justdial,restaurant,hi,3,NEU,कुछ खास नहीं। धन्यवाद।
+R0216,amazon,salon,hinglish,5,POS,staff polite tha. recommended.
+R0120,facebook,ecommerce,hinglish,1,NEG,hygiene nahi tha. dobara nahi.
+R0008,zomato,salon,en,3,NEU,decent experience. manageable.
+R0091,amazon,ecommerce,en,3,NEU,average quality. thanks.
+R0047,facebook,restaurant,en,2,NEG,overpriced for quantity. needs improvement.
+R0074,justdial,restaurant,en,2,NEG,found hair in food. needs improvement.
+R0094,facebook,restaurant,en,5,POS,fresh ingredients. keep it up.
+R0077,justdial,restaurant,en,3,NEU,nothing special. okay overall.
+R0287,zomato,salon,en,3,NEU,staff was fine. okay overall.
+R0061,justdial,salon,hi,1,NEG,स्टाफ बदतमीज़ था। बहुत निराशा हुई।
+R0078,facebook,restaurant,en,5,POS,amazing ambience. loved it.
+R0064,instagram,restaurant,en,1,NEG,staff was rude. not recommended.
+R0235,amazon,ecommerce,hi,5,POS,खाना बहुत स्वादिष्ट था। बहुत धन्यवाद।
+R0230,facebook,salon,hinglish,4,POS,service mast thi. recommended.
+R0112,google,ecommerce,en,3,NEU,works as expected. alright.
+R0232,justdial,salon,en,5,POS,clean and hygienic. highly recommended.
+R0181,amazon,salon,en,3,NEU,staff was fine. alright.
+R0145,amazon,ecommerce,hi,4,POS,बहुत अच्छा अनुभव रहा। फिर से आएंगे।
+R0240,google,ecommerce,hinglish,2,NEG,bahut bura tha. dobara nahi.
+R0076,amazon,ecommerce,hinglish,4,POS,value for money. love it.
+R0298,google,ecommerce,en,3,NEU,delivery was on time. manageable.
+R0279,justdial,salon,en,1,NEG,unhygienic tools. very disappointed.
+R0098,google,salon,en,1,NEG,waited too long. needs improvement.
+R0093,google,salon,hi,1,NEG,खाना ठंडा था। दोबारा नहीं आएंगे।
+R0193,instagram,salon,en,1,NEG,bad haircut. won't order again.
+R0026,amazon,restaurant,en,3,NEU,decent food. fine.
+R0233,zomato,salon,en,5,POS,great haircut. keep it up.
+R0060,facebook,restaurant,hinglish,3,NEU,theek tha. improve kar sakte ho.
+R0007,instagram,salon,en,3,NEU,decent experience. okay overall.
+R0186,facebook,ecommerce,hi,3,NEU,ठीक है। धन्यवाद।
+R0174,facebook,restaurant,en,5,POS,quick service. keep it up.
+R0031,justdial,salon,hi,2,NEG,पैसे की बर्बादी। कृपया सुधार करें।
+R0023,google,salon,hi,1,NEG,खाना ठंडा था। सपोर्ट से संपर्क करें।
+R0257,google,restaurant,hi,3,NEU,सब ठीक था। कुल मिलाकर ठीक।
+R0057,facebook,ecommerce,en,3,NEU,could improve packaging. alright.
+R0187,instagram,salon,hinglish,2,NEG,delivery bahut late. dobara nahi.
+R0109,instagram,salon,hi,5,POS,बहुत बढ़िया। शानदार काम।
+R0127,justdial,ecommerce,hi,5,POS,डिलीवरी जल्दी हुई। बहुत धन्यवाद।
+R0231,zomato,ecommerce,en,3,NEU,average quality. alright.
+R0194,amazon,ecommerce,en,3,NEU,works as expected. manageable.
+R0130,facebook,restaurant,en,3,NEU,nothing special. fine.
+R0283,facebook,ecommerce,en,3,NEU,product is okay. thanks.
+R0083,amazon,salon,en,3,NEU,staff was fine. alright.
+R0085,amazon,ecommerce,en,3,NEU,product is okay. okay overall.
+R0067,facebook,restaurant,en,2,NEG,staff was rude. not recommended.
+R0289,facebook,restaurant,hinglish,5,POS,awesome taste. love it.
+R0164,facebook,restaurant,hinglish,1,NEG,waste of money. bahut disappointed.
+R0155,zomato,ecommerce,hinglish,2,NEG,staff rude tha. please improve.
+R0020,justdial,restaurant,hinglish,3,NEU,decent hai. overall ok.
+R0125,instagram,ecommerce,hi,2,NEG,डिलीवरी बहुत देर से हुई। बहुत निराशा हुई।
+R0080,instagram,salon,en,3,NEU,staff was fine. okay overall.
+R0115,justdial,restaurant,en,3,NEU,nothing special. alright.
+R0119,google,salon,en,2,NEG,unhygienic tools. not recommended.
+R0073,instagram,ecommerce,hinglish,1,NEG,food thanda tha. support se baat karo.
+R0016,google,salon,hi,2,NEG,स्टाफ बदतमीज़ था। दोबारा नहीं आएंगे।
+R0011,amazon,ecommerce,en,5,POS,product quality is excellent. highly recommended.
+R0195,google,restaurant,hi,3,NEU,सब ठीक था। सुधार की गुंजाइश है।
+R0102,amazon,restaurant,en,1,NEG,overpriced for quantity. not recommended.
+R0069,justdial,restaurant,hi,5,POS,डिलीवरी जल्दी हुई। शानदार काम।
+R0225,instagram,salon,en,3,NEU,decent experience. okay overall.
+R0038,justdial,salon,hinglish,3,NEU,ok ok. overall ok.
+R0017,zomato,restaurant,hi,2,NEG,बहुत खराब अनुभव। दोबारा नहीं आएंगे।
+R0180,zomato,restaurant,hinglish,1,NEG,bahut bura tha. dobara nahi.
+R0148,zomato,salon,hinglish,5,POS,value for money. great job.
+R0275,facebook,salon,hinglish,2,NEG,food thanda tha. please improve.
+R0068,amazon,salon,hinglish,3,NEU,theek tha. overall ok.
+R0229,facebook,restaurant,en,3,NEU,it was okay. alright.
+R0070,instagram,salon,en,1,NEG,unhygienic tools. very disappointed.
+R0032,google,salon,en,3,NEU,service was okay. manageable.
+R0184,zomato,salon,en,3,NEU,average haircut. manageable.
+R0266,google,salon,hinglish,4,POS,awesome taste. love it.
+R0226,facebook,salon,hinglish,4,POS,staff polite tha. love it.
+R0141,zomato,ecommerce,en,2,NEG,poor packaging. please improve.
+R0019,facebook,restaurant,en,3,NEU,could be better. okay overall.
+R0182,instagram,salon,en,3,NEU,decent experience. manageable.
+R0097,amazon,salon,en,4,POS,excellent facial. highly recommended.
+R0133,justdial,salon,hi,2,NEG,हाइजीन ठीक नहीं था। कृपया सुधार करें।
+R0263,amazon,salon,en,3,NEU,could be quicker. manageable.
+R0087,zomato,salon,hi,5,POS,खाना बहुत स्वादिष्ट था। जरूर recommend करेंगे।
+R0249,google,salon,en,4,POS,on-time appointment. great job.
+R0246,amazon,salon,en,4,POS,excellent facial. highly recommended.
+R0117,google,restaurant,hinglish,2,NEG,staff rude tha. please improve.
+R0147,zomato,ecommerce,en,2,NEG,wrong product delivered. not recommended.
+R0293,justdial,ecommerce,hi,2,NEG,डिलीवरी बहुत देर से हुई। दोबारा नहीं आएंगे।
+R0198,google,restaurant,hi,2,NEG,डिलीवरी बहुत देर से हुई। कृपया सुधार करें।
+R0207,zomato,salon,en,5,POS,clean and hygienic. highly recommended.
+R0056,justdial,ecommerce,en,3,NEU,delivery was on time. fine.
+R0173,zomato,ecommerce,en,1,NEG,late delivery. needs improvement.
+R0185,google,restaurant,en,3,NEU,service was fine. fine.
+R0168,instagram,restaurant,en,3,NEU,it was okay. okay overall.
+R0140,justdial,ecommerce,hinglish,5,POS,delivery jaldi hui. great job.
+R0254,google,ecommerce,hi,1,NEG,हाइजीन ठीक नहीं था। सपोर्ट से संपर्क करें।
+R0039,justdial,salon,hi,3,NEU,कुछ खास नहीं। सुधार की गुंजाइश है।
+R0126,instagram,restaurant,hi,4,POS,बहुत अच्छा अनुभव रहा। जरूर recommend करेंगे।
+R0196,google,ecommerce,hi,3,NEU,कुछ खास नहीं। कुल मिलाकर ठीक।
+R0284,amazon,restaurant,en,4,POS,amazing ambience. highly recommended.
+R0138,justdial,salon,en,5,POS,excellent facial. loved it.
+R0113,justdial,ecommerce,en,2,NEG,late delivery. please improve.
+R0169,amazon,ecommerce,en,1,NEG,poor packaging. won't order again.
+R0118,amazon,salon,hi,3,NEU,बेहतर हो सकता है। ठीक है।
+R0278,justdial,restaurant,en,3,NEU,service was fine. fine.
+R0272,zomato,ecommerce,hinglish,4,POS,service mast thi. love it.
+R0156,google,restaurant,hinglish,3,NEU,kuch khaas nahi. thanks.
+R0177,amazon,restaurant,en,3,NEU,average experience. manageable.
+R0179,google,salon,en,4,POS,excellent facial. great job.
+R0003,facebook,salon,en,4,POS,friendly service. great job.
+R0116,facebook,salon,en,1,NEG,waited too long. very disappointed.
+R0144,facebook,restaurant,hi,3,NEU,औसत अनुभव। ठीक है।
+R0178,amazon,ecommerce,en,1,NEG,late delivery. won't order again.
+R0121,zomato,salon,en,3,NEU,nothing extraordinary. manageable.
+R0211,zomato,salon,hinglish,3,NEU,better ho sakta hai. theek hai.
+R0261,amazon,ecommerce,en,1,NEG,not as described. very disappointed.
+R0128,google,restaurant,en,5,POS,food was delicious. great job.
+R0075,google,ecommerce,en,2,NEG,late delivery. not recommended.
+R0030,amazon,salon,hinglish,5,POS,bahut accha laga. love it.
+R0084,amazon,ecommerce,hinglish,2,NEG,hygiene nahi tha. support se baat karo.
+R0270,zomato,ecommerce,en,3,NEU,could improve packaging. fine.
+R0108,justdial,restaurant,hinglish,5,POS,bahut accha laga. recommended.
+R0224,amazon,salon,hi,1,NEG,हाइजीन ठीक नहीं था। कृपया सुधार करें।
+R0159,justdial,salon,en,3,NEU,nothing extraordinary. alright.
+R0281,justdial,restaurant,en,2,NEG,overpriced for quantity. please improve.
+R0247,justdial,ecommerce,en,5,POS,fast delivery. keep it up.
+R0223,instagram,ecommerce,en,4,POS,packing was good. loved it.
+R0066,facebook,salon,en,1,NEG,staff was unprofessional. please improve.
+R0199,facebook,ecommerce,hi,3,NEU,औसत अनुभव। सुधार की गुंजाइश है।
+R0086,amazon,restaurant,hi,1,NEG,खाना ठंडा था। सपोर्ट से संपर्क करें।
+R0214,facebook,restaurant,en,2,NEG,food was cold. please improve.
+R0160,justdial,ecommerce,en,5,POS,fast delivery. great job.
+R0013,zomato,salon,hinglish,3,NEU,better ho sakta hai. thanks.
+R0036,justdial,ecommerce,hi,3,NEU,औसत अनुभव। ठीक है।
+R0029,zomato,salon,en,4,POS,staff was professional. loved it.
+R0143,amazon,ecommerce,en,4,POS,value for money. great job.
+R0285,zomato,salon,hinglish,1,NEG,delivery bahut late. dobara nahi.
+R0255,amazon,ecommerce,en,3,NEU,average quality. thanks.
+R0171,google,restaurant,hi,5,POS,डिलीवरी जल्दी हुई। फिर से आएंगे।
+R0052,justdial,ecommerce,hinglish,1,NEG,delivery bahut late. bahut disappointed.
+R0096,facebook,ecommerce,en,3,NEU,no major issues. thanks.
+R0209,instagram,restaurant,hi,3,NEU,ठीक-ठाक था। ठीक है।
+R0248,google,restaurant,hi,3,NEU,ठीक है। कुल मिलाकर ठीक।
+R0042,google,ecommerce,en,1,NEG,wrong product delivered. please improve.
+R0090,justdial,restaurant,hi,5,POS,बहुत अच्छा अनुभव रहा। जरूर recommend करेंगे।
+R0245,justdial,restaurant,en,2,NEG,food was cold. please improve.
+R0137,justdial,restaurant,en,2,NEG,found hair in food. not recommended.
+R0027,amazon,restaurant,en,1,NEG,taste was bland. very disappointed.
+R0294,google,restaurant,hi,4,POS,खाना बहुत स्वादिष्ट था। शानदार काम।
+R0142,instagram,ecommerce,hi,5,POS,सेवा शानदार थी। फिर से आएंगे।
+R0201,facebook,restaurant,en,2,NEG,food was cold. very disappointed.
+R0001,zomato,salon,hinglish,3,NEU,better ho sakta hai. improve kar sakte ho.
+R0269,facebook,ecommerce,en,1,NEG,not as described. not recommended.
+R0273,zomato,salon,en,2,NEG,waited too long. please improve.
+R0101,instagram,ecommerce,en,4,POS,packing was good. keep it up.
+R0260,instagram,ecommerce,hi,5,POS,सेवा शानदार थी। फिर से आएंगे।
+R0256,amazon,ecommerce,en,3,NEU,no major issues. manageable.
+R0172,instagram,ecommerce,hinglish,5,POS,bahut accha laga. love it.
+R0099,justdial,restaurant,en,5,POS,portion size was good. keep it up.
+R0037,justdial,salon,hinglish,1,NEG,waste of money. dobara nahi.
+R0062,justdial,restaurant,en,2,NEG,staff was rude. not recommended.
+R0151,facebook,ecommerce,en,2,NEG,received damaged item. very disappointed.
+R0237,justdial,restaurant,hi,2,NEG,पैसे की बर्बादी। बहुत निराशा हुई।
+R0203,instagram,ecommerce,en,3,NEU,no major issues. manageable.
+R0243,facebook,restaurant,en,1,NEG,found hair in food. needs improvement.
+R0012,google,ecommerce,en,2,NEG,not as described. needs improvement.
+R0297,facebook,salon,hi,3,NEU,औसत अनुभव। सुधार की गुंजाइश है।
+R0268,amazon,ecommerce,hinglish,1,NEG,delivery bahut late. support se baat karo.
+R0028,instagram,restaurant,hinglish,2,NEG,hygiene nahi tha. support se baat karo.
+R0220,instagram,ecommerce,hinglish,5,POS,service mast thi. phir se aayenge.
+R0005,facebook,restaurant,hi,4,POS,बहुत अच्छा अनुभव रहा। बहुत धन्यवाद।
+R0123,google,ecommerce,hi,3,NEU,सब ठीक था। कुल मिलाकर ठीक।
+R0033,amazon,salon,hinglish,3,NEU,better ho sakta hai. overall ok.
+R0205,zomato,ecommerce,en,5,POS,packing was good. loved it.
+R0163,amazon,restaurant,hi,3,NEU,ठीक-ठाक था। धन्यवाद।
+R0210,instagram,ecommerce,en,5,POS,seller was responsive. keep it up.
+R0286,facebook,salon,en,3,NEU,staff was fine. thanks.
+R0139,google,ecommerce,hi,3,NEU,सब ठीक था। ठीक है।
+R0063,amazon,ecommerce,en,5,POS,packing was good. great job.
+R0136,zomato,ecommerce,en,2,NEG,not as described. not recommended.
+R0129,instagram,salon,hinglish,4,POS,awesome taste. love it.
+R0291,instagram,restaurant,hinglish,2,NEG,staff rude tha. please improve.
+R0009,justdial,salon,hi,5,POS,बहुत अच्छा अनुभव रहा। फिर से आएंगे।
+R0071,instagram,salon,hinglish,4,POS,value for money. love it.
+R0265,amazon,ecommerce,hi,3,NEU,ठीक-ठाक था। सुधार की गुंजाइश है।
+R0065,google,restaurant,hi,1,NEG,खाना ठंडा था। बहुत निराशा हुई।
+R0045,zomato,salon,en,1,NEG,staff was unprofessional. not recommended.
+R0280,facebook,salon,hi,3,NEU,कुछ खास नहीं। सुधार की गुंजाइश है।
+R0157,instagram,restaurant,hinglish,4,POS,delivery jaldi hui. great job.
+R0041,instagram,restaurant,en,2,NEG,food was cold. not recommended.
+R0124,amazon,ecommerce,hi,5,POS,स्टाफ बहुत विनम्र था। शानदार काम।
+R0276,amazon,salon,en,5,POS,great haircut. highly recommended.
+R0217,google,salon,en,1,NEG,unhygienic tools. won't order again.
+R0154,instagram,salon,en,4,POS,excellent facial. will visit again.
+R0024,amazon,restaurant,hi,2,NEG,हाइजीन ठीक नहीं था। बहुत निराशा हुई।
+R0262,facebook,restaurant,en,5,POS,amazing ambience. great job.
+R0111,instagram,salon,en,4,POS,clean and hygienic. great job.
+R0082,instagram,restaurant,en,3,NEU,average experience. fine.
+R0208,facebook,restaurant,en,3,NEU,average experience. okay overall.
+R0213,justdial,salon,en,1,NEG,bad haircut. won't order again.
+R0040,instagram,salon,en,5,POS,excellent facial. highly recommended.
+R0241,justdial,salon,hi,4,POS,बहुत अच्छा अनुभव रहा। जरूर recommend करेंगे।
+R0292,zomato,restaurant,en,5,POS,quick service. great job.
+R0259,zomato,salon,en,3,NEU,nothing extraordinary. fine.
+R0200,instagram,salon,en,5,POS,staff was professional. great job.
+R0015,zomato,ecommerce,en,1,NEG,refund process is slow. very disappointed.
+R0048,instagram,salon,en,3,NEU,nothing extraordinary. alright.
+R0095,facebook,restaurant,hi,5,POS,स्टाफ बहुत विनम्र था। जरूर recommend करेंगे।
+R0264,justdial,ecommerce,en,3,NEU,delivery was on time. alright.
+R0228,zomato,ecommerce,hinglish,2,NEG,delivery bahut late. bahut disappointed.
+R0274,google,restaurant,en,3,NEU,could be better. manageable.
+R0202,google,ecommerce,hi,2,NEG,बहुत खराब अनुभव। सपोर्ट से संपर्क करें।
+R0162,instagram,ecommerce,en,1,NEG,poor packaging. please improve.
+R0044,instagram,salon,en,5,POS,great haircut. highly recommended.
+R0218,google,ecommerce,hinglish,3,NEU,decent hai. overall ok.
+R0146,google,ecommerce,en,3,NEU,delivery was on time. okay overall.
+R0191,facebook,restaurant,en,3,NEU,could be better. fine.
+R0221,facebook,salon,en,3,NEU,decent experience. thanks.
+R0252,facebook,salon,hi,5,POS,बहुत अच्छा अनुभव रहा। जरूर recommend करेंगे।
+R0004,facebook,salon,en,4,POS,great haircut. will visit again.
+R0106,facebook,restaurant,hi,3,NEU,बेहतर हो सकता है। कुल मिलाकर ठीक।
+R0054,justdial,ecommerce,en,2,NEG,received damaged item. not recommended.
+R0134,google,restaurant,hi,4,POS,खाना बहुत स्वादिष्ट था। जरूर recommend करेंगे।
+R0002,google,restaurant,en,1,NEG,found hair in food. needs improvement.
+R0132,zomato,ecommerce,hi,5,POS,बहुत अच्छा अनुभव रहा। फिर से आएंगे।
+R0104,instagram,salon,hinglish,3,NEU,theek tha. improve kar sakte ho.
+R0050,amazon,ecommerce,hi,5,POS,स्टाफ बहुत विनम्र था। बहुत धन्यवाद।
+R0081,amazon,ecommerce,hi,2,NEG,बहुत खराब अनुभव। कृपया सुधार करें।
+R0206,facebook,ecommerce,hi,1,NEG,हाइजीन ठीक नहीं था। कृपया सुधार करें।
+R0035,amazon,restaurant,hi,2,NEG,डिलीवरी बहुत देर से हुई। सपोर्ट से संपर्क करें।
+R0092,google,ecommerce,en,1,NEG,poor packaging. won't order again.
+R0053,justdial,salon,en,4,POS,staff was professional. great job.
+R0242,google,salon,hinglish,5,POS,value for money. phir se aayenge.
+R0014,zomato,ecommerce,en,1,NEG,refund process is slow. needs improvement.
+R0089,instagram,ecommerce,en,1,NEG,not as described. very disappointed.
+R0167,amazon,restaurant,en,3,NEU,average experience. alright.
+R0295,amazon,ecommerce,en,4,POS,product quality is excellent. will visit again.
+R0135,amazon,restaurant,en,1,NEG,staff was rude. very disappointed.
+R0288,google,salon,hi,5,POS,बहुत अच्छा अनुभव रहा। फिर से आएंगे।
+R0244,google,ecommerce,en,5,POS,fast delivery. loved it.
+R0055,facebook,ecommerce,hinglish,3,NEU,better ho sakta hai. thanks.
+R0051,amazon,ecommerce,en,5,POS,fast delivery. loved it.
+R0175,google,ecommerce,en,3,NEU,no major issues. manageable.
+R0190,amazon,salon,en,5,POS,on-time appointment. great job.
+R0299,google,restaurant,hinglish,5,POS,awesome taste. great job.
+R0188,facebook,ecommerce,hinglish,5,POS,awesome taste. recommended.
+R0170,facebook,salon,hi,3,NEU,ठीक है। ठीक है।
+R0059,justdial,restaurant,en,2,NEG,overpriced for quantity. not recommended.
+R0049,justdial,salon,en,2,NEG,waited too long. won't order again.
+R0236,amazon,restaurant,hi,5,POS,बहुत अच्छा अनुभव रहा। फिर से आएंगे।
+R0253,instagram,ecommerce,hinglish,3,NEU,better ho sakta hai. improve kar sakte ho.
+R0022,justdial,salon,en,4,POS,clean and hygienic. keep it up.
+R0161,google,restaurant,hinglish,1,NEG,food thanda tha. dobara nahi.
+R0277,justdial,salon,en,4,POS,great haircut. highly recommended.
+R0192,zomato,salon,en,3,NEU,service was okay. okay overall.
+R0258,justdial,salon,en,4,POS,clean and hygienic. great job.
+R0150,facebook,ecommerce,hinglish,3,NEU,average tha. improve kar sakte ho.
+R0131,justdial,salon,en,1,NEG,bad haircut. needs improvement.
+R0152,instagram,restaurant,en,5,POS,fresh ingredients. great job.
+R0100,instagram,ecommerce,en,3,NEU,delivery was on time. fine.
+R0088,zomato,ecommerce,en,1,NEG,refund process is slow. needs improvement.
+R0215,facebook,salon,en,3,NEU,nothing extraordinary. alright.
+R0122,google,ecommerce,hi,5,POS,बहुत बढ़िया। बहुत धन्यवाद।
+R0300,google,restaurant,en,5,POS,amazing ambience. keep it up.
+R0021,zomato,restaurant,en,2,NEG,food was cold. very disappointed.
+R0189,google,salon,en,4,POS,excellent facial. will visit again.
+R0072,google,ecommerce,en,3,NEU,could improve packaging. fine.
+R0107,facebook,ecommerce,en,4,POS,seller was responsive. keep it up.
+R0271,facebook,restaurant,en,3,NEU,average experience. manageable.
+R0103,instagram,restaurant,en,1,NEG,staff was rude. needs improvement.
