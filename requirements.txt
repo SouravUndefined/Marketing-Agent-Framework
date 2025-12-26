@@ -1,0 +1,13 @@
+# Core LLM & Graph orchestration
+langgraph>=0.2.30
+langchain>=0.2.15
+langchain-openai>=0.1.22
+
+# Data validation / schemas
+pydantic>=2.7.0
+
+# Environment variable management
+python-dotenv>=1.0.1
+
+# JSON robustness (optional but recommended for production)
+orjson>=3.10.7
